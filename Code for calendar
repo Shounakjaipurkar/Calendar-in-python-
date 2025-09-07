@@ -1,0 +1,7 @@
+import calendar
+print("Enter the day in MM/DD/YYYY manner!!!")
+m,d,y=map(int,input().split())
+day=calendar.weekday(y,m,d)
+print(day)
+days=["MONDAY","TUESDAY","WEDNESDAY","THURSDAY","FRIDAY","SATURDAY","SUNDAY"]
+print(days[day])
