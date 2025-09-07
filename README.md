@@ -7,10 +7,3 @@ A simple Python script that uses the built-in [`calendar`](https://docs.python.o
 - Prints the day number (`0 = Monday, 6 = Sunday`).
 - Prints the actual weekday name (e.g., `WEDNESDAY`).
 
-## 🚀 Usage
-
-1. Clone:
-   ```bash
-    git clone https://github.com/Shounakjaipurkar/Calendar-in-python.git
-    cd Calendar-in-python
- 
